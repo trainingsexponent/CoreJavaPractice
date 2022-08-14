@@ -21,8 +21,6 @@ public class Account {
         return "Account{" +
                 "name='" + name + '\'' +
                 ", adharCardNumber=" + adharCardNumber +
-                ", panNumber='" + panNumber + '\'' +
-                ", address='" + address + '\'' +
                 ", mobileNo=" + mobileNo +
                 ", accNo=" + accNo +
                 ", accBalance=" + accBalance +
